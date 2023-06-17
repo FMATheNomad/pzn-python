@@ -1,0 +1,20 @@
+nama = []
+def print_nama():
+    print("=======")
+    for data in nama:
+        print(data)
+    print("=======")
+nama.append("Fariz")
+print_nama()
+nama.append("Na Goeun")
+print_nama()
+nama.append("Chaein")
+print_nama()
+nama.append("Yuki")
+print_nama()
+nama.append("Ireh")
+print_nama()
+nama.append("Dosie")
+print_nama()
+nama.append("Swan")
+print_nama()
